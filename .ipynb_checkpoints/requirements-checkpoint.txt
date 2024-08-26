@@ -8,7 +8,8 @@ llama-index-embeddings-bedrock
 llama-index-retrievers-bedrock
 llama-index-llms-bedrock-converse
 
-
+wikipedia
+llama-index-readers-wikipedia
 
 
 
